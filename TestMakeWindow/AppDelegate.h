@@ -10,6 +10,8 @@
 
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 
+@property NSWindowController *myControl1;
+@property NSWindowController *myControl2;
 
 @end
 
